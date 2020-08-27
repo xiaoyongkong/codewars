@@ -1,2 +1,2 @@
-# codewars
-I will including all the code I made from https://www.codewars.com/
+# Codewars
+I will including all the code I made from [Codewars](https://www.codewars.com/)
